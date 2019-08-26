@@ -12,9 +12,6 @@
 
   "sort-order": [
     [
-      "box-sizing"
-    ],
-    [
       "display",
       "position",
       "top",
@@ -93,10 +90,11 @@
       "align-self",
       "justify-content",
       "justify-items",
-      "justify-self"
+      "justify-self",
+      "vertical-align"
     ],
     [
-      "vertical-align"
+      "box-sizing"
     ],
     [
       "margin",
@@ -267,7 +265,8 @@
       "outline-width",
       "outline-style",
       "outline-color",
-      "outline-offset"
+      "outline-offset",
+      "text-shadow"
     ],
     [
       "content",
