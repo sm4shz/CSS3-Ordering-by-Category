@@ -1,1 +1,342 @@
-# CSS3-Ordering-by-Category
+# CSS3: Ordering by Category
+
+## Position and Display
+```
+[
+  "box-sizing"
+  "display",
+  "position",
+  "top",
+  "right",
+  "bottom",
+  "left",
+  "z-index"
+]
+```
+### _Layout Properties_
+> Float Layout
+```
+[
+  "float",
+  "clear",
+  "shape-image-threshold",
+  "shape-margin",
+  "shape-outside"
+]
+```
+> Table Layout
+```
+[
+  "table-layout",
+  "border-collapse",
+  "border-spacing",
+  "empty-cells",
+  "caption-side"
+]
+```
+> Multi-Column Layout
+```
+[
+  "columns",
+  "column-count",
+  "column-fill",
+  "column-gap",
+  "column-rule",
+  "column-rule-color",
+  "column-rule-style",
+  "column-rule-width",
+  "column-span",
+  "column-width",
+  "break-after",
+  "break-before",
+  "break-inside",
+  "orphans",
+  "widows"
+]
+```
+> Flexible Box Layout
+```
+[
+  "flex",
+  "flex-grow",
+  "flex-shrink",
+  "flex-basis",
+  "flex-flow",
+  "flex-direction",
+  "flex-wrap",
+  "order"
+]
+```
+> Grid Layout
+```
+[
+  "grid",
+  "grid-area",
+  "grid-row",
+  "grid-row-start",
+  "grid-row-end",
+  "grid-column",
+  "grid-column-start",
+  "grid-column-end",
+  "grid-template",
+  "grid-template-areas",
+  "grid-template-rows",
+  "grid-template-columns",
+  "grid-auto-flow",
+  "grid-auto-rows",
+  "grid-auto-columns",
+  "grid-gap",
+  "grid-row-gap",
+  "grid-column-gap"
+]
+```
+### _Alignment Properties_
+```
+[
+  "place-content",
+  "place-items",
+  "place-self",
+  "align-content",
+  "align-items",
+  "align-self",
+  "justify-content",
+  "justify-items",
+  "justify-self",
+  "vertical-align"
+]
+```
+
+## Box Model
+```
+[
+  "box-sizing"
+]
+```
+### _Margin Properties_
+```
+[
+  "margin",
+  "margin-top",
+  "margin-right",
+  "margin-bottom",
+  "margin-left"
+]
+```
+### _Border Properties_
+```
+[
+  "border",
+  "border-width",
+  "border-style",
+  "border-color",
+  "border-top",
+  "border-top-width",
+  "border-top-style",
+  "border-top-color",
+  "border-right",
+  "border-right-width",
+  "border-right-style",
+  "border-right-color",
+  "border-bottom",
+  "border-bottom-width",
+  "border-bottom-style",
+  "border-bottom-color",
+  "border-left",
+  "border-left-width",
+  "border-left-style",
+  "border-left-color",
+  "border-radius",
+  "border-top-left-radius",
+  "border-top-right-radius",
+  "border-bottom-right-radius",
+  "border-bottom-left-radius",
+  "border-collapse",
+  "border-image",
+  "border-image-source",
+  "border-image-slice",
+  "border-image-width",
+  "border-image-outset",
+  "border-image-repeat"
+]
+```
+### _Padding Properties_
+```
+[
+  "padding",
+  "padding-top",
+  "padding-right",
+  "padding-bottom",
+  "padding-left"
+]
+```
+### _Dimensions Properties_
+```
+[
+  "width",
+  "min-width",
+  "max-width",
+  "height",
+  "min-height",
+  "max-height"
+]
+```
+
+## Typography
+### _Font Properties_
+```
+[
+  "font",
+  "font-family",
+  "font-feature-settings",
+  "font-kerning",
+  "font-language-override",
+  "font-optical-sizing",
+  "font-size",
+  "font-size-adjust",
+  "font-stretch",
+  "font-style",
+  "font-synthesis",
+  "font-variant",
+  "font-variant-alternates",
+  "font-variant-caps",
+  "font-variant-east-asian",
+  "font-variant-ligatures",
+  "font-variant-numeric",
+  "font-variant-position",
+  "font-weight"
+]
+```
+### _Text Properties_
+```
+[
+  "direction",
+  "hyphens",
+  "tab-size",
+  "text-align",
+  "text-align-last",
+  "text-combine-upright",
+  "text-decoration",
+  "text-decoration-color",
+  "text-decoration-line",
+  "text-decoration-style",
+  "text-emphasis",
+  "text-emphasis-color",
+  "text-emphasis-position",
+  "text-emphasis-style",
+  "text-indent",
+  "text-justify",
+  "text-orientation",
+  "text-overflow",
+  "text-rendering",
+  "text-transform",
+  "text-underline-position",
+  "letter-spacing",
+  "line-break",
+  "line-height",
+  "unicode-bidi",
+  "white-space",
+  "word-break",
+  "word-spacing",
+  "word-wrap",
+  "writing-mode"
+]
+```
+
+## Misc
+### _Transformation Properties_
+```
+[
+  "backface-visibility",
+  "perspective",
+  "perspective-origin",
+  "transform",
+  "transform-box",
+  "transform-origin",
+  "transform-style"
+]
+```
+
+### _Transition and Animation Properties_
+```
+[
+  "transition",
+  "transition-delay",
+  "transition-timing-function",
+  "transition-duration",
+  "transition-property",
+  "animation",
+  "animation-delay",
+  "animation-direction",
+  "animation-duration",
+  "animation-fill-mode",
+  "animation-iteration-count",
+  "animation-name",
+  "animation-play-state",
+  "animation-timing-function"
+]
+```
+### _Overflow and Visiblity Properties_
+```
+[
+  "overflow",
+  "overflow-x",
+  "overflow-y",
+  "resize",
+  "visibility"
+]
+```
+### _Visualization Properties_
+```
+[
+  "background",
+  "background-attachment",
+  "background-blend-mode",
+  "background-clip",
+  "background-color",
+  "background-image",
+  "background-origin",
+  "background-position",
+  "background-repeat",
+  "background-size",
+  "box-decoration-break",
+  "box-shadow",
+  "caret-color",
+  "clip-path",
+  "color",
+  "color-adjust",
+  "filter",
+  "list-style",
+  "list-style-position",
+  "list-style-type",
+  "list-style-image",
+  "opacity",
+  "outline",
+  "outline-width",
+  "outline-style",
+  "outline-color",
+  "outline-offset",
+  "text-shadow"
+]
+```
+### _Generated Content Properties_
+```
+[
+  "content",
+  "quotes",
+  "counter-reset",
+  "counter-increment"
+]
+```
+### _Other Properties_
+```
+[
+  "all",
+  "cursor",
+  "image-rendering",
+  "isolation",
+  "mix-blend-mode",
+  "object-fit",
+  "object-position",
+  "user-select"
+]
+```
